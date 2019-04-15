@@ -1,7 +1,7 @@
 # Startup Antwerp Giertz
 
-This repo is the source for all info about activities with BeCode: Brieffings, tutorials, etc...
-Clonse this on your pc and `git pull` often to make sure you have the most recent version of everything.
+This repo is the source of information about activities with BeCode: Briefings, guidelines, tasks, tutorials, exercises etc...
+Clone this to your pc and `git pull` often to make sure you have the most recent version.
 
 ## Your sources of info for BeCode:
 
@@ -11,16 +11,16 @@ Read the following documents
  Whatsapp: https://chat.whatsapp.com/JwDJxA34xoE6bEj2SHrGZI
 
 
-## [Respect for planning: being late & absence](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
+## Respect for planning: being late & absence
 
 In case of delay, absence or early leave (planned or not), please warn us by using the platform [my.becode.org](https://my.becode.org).
 
 In short here is what you do in any of the three cases above:
 
 1) Send a message to both coaches on Ryver
-2) you warn BeCode through [my.becode.org](https://my.becode.org/);
-    - if you already have some note to justify your absence (doctors note, ...), then send this to us straight through the platform (my.becode.org)
-    - if you know that you are going to be in possession of such a document, then do tell us when you notify us of your absence, ... Then once you have the document, send it to us through the platform
+2) You warn BeCode through [my.becode.org](https://my.becode.org/);
+    - if you already have some note to justify your absence (doctors note, ...), then send this straight to us using the platform (my.becode.org)
+    - if you know that you are going to obtain such document, tell us when you notify us of your absence, ...  Once you have the document, send it to us through the platform
     - When you know that you will have no legal reason for the absence, tardiness, ... then please let us know asap as well on ryver/whatsapp. Not showing up, or showing up late is considered unprofessional
 
 
