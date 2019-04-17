@@ -2,10 +2,11 @@
 
  - Group exercise (2-3)
  
- ## Sources
+ ## Sources you can use
  - Original guide from github: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
  - Cheatsheet and complete list of possibillities: [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - Online editor to play with: [Stackedit.io](https://stackedit.io)
+ - [Another markdown-cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Goals
 
