@@ -19,3 +19,8 @@ Did you know that every OS has a powertool to execute a lot of commands without 
 Now that you played around with the terminal let's continue, try the git command line tool 
  - [Git](./1.Git/)
  
+## Markdown:
+
+Now we are going to start using Git for something a bit real. We are going to create a markdown document about a website that needs improvement.
+
+- [Markdown](./2.Markdown/)
