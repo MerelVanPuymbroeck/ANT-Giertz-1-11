@@ -40,3 +40,7 @@ To practice, start the terminal by pressing CTRL + ALT + T at the same time.
 - List the contents of the 'Octocat' directory
 - Create the folder 'Skills' and create a file `successful.md` in which you write down your computer skills. This can be a list, either with the languages you know or the languages you want to know.
 - Create the folder `becode_projects` in which you can store all your future becode files.
+
+## Extra
+
+- Read and practise all of this tutorial: [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line/)
