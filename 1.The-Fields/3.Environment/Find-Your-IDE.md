@@ -13,7 +13,7 @@ Since there is a whole lot of software available on the market, it is very impor
  
 ## Deadline
  
-ETA: 11'o clock
+16:30 - 18/04/2019
  
  
 ## Exercises
