@@ -30,8 +30,3 @@ ETA: 11'o clock
 
 [Back to the fields](/1.The-Fields/)
 
-
-## (*)
-Creating private repositories is good practice (in the professional world).
-But since Me & Filip need to be able to follow along in your repositories, 
-for the rest of the training you can make your repositories public
