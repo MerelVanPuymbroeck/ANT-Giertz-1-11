@@ -24,3 +24,9 @@ Now that you played around with the terminal let's continue, try the git command
 Now we are going to start using Git for something a bit real. We are going to create a markdown document about a website that needs improvement.
 
 - [Markdown](./2.Markdown/)
+
+## HTML:
+
+Lets become a web developer.
+
+- [HTML and CSS](./4.HTML-CSS/)
