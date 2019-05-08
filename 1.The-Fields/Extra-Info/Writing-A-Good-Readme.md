@@ -1,6 +1,10 @@
 # How to do a readme on GitHub
 Doing it is simple. Usually, you generate it automatically when you create your repo. BUT the hardest part is to write it correctly. And now we all know it's a different matter.
 
+Some links that could help:
+https://www.makeareadme.com/
+https://www.google.com/search?q=how+to+make+a+good+readme
+
 ## Questions to ask yourself....
 To write a quality readme, you have to ask yourself several questions:
 
