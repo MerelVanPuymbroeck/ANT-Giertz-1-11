@@ -25,7 +25,7 @@ You:
 ## Your Mission 
 
 Your coach assigns you to a project.  
-Create and deploy before 4PM a *one-pager* that looks better and communicates more clearly than their current site, And don't forget to make it responsive ;)  
+Create and deploy before 5PM a *one-pager* that looks better and communicates more clearly than their current site, And don't forget to make it responsive ;)  
 
 Feel free to do this excercise however you want. So use a template, a framework, write it from the ground up. We don't care, but have a site ready by the end of the day. 
 
