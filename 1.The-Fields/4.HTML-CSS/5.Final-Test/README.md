@@ -90,8 +90,11 @@ Give the file a good name.
 - [ ] The CSS folder does not have an image folder
 - [ ] Not too many files in the root folder 
 
-### Git is what you make it
+### Git(hub) is what you make it
 - [ ] All commits use the correct format (if applied this commit will...)
+- [ ] A github description has been filled in
+- [ ] A github website has been filled in
+- [ ] Github topics have been filled in
 
 ### Readme please, but also writeme
 - [ ] No license text in the readme, put it in a seperate file
@@ -141,15 +144,17 @@ Give the file a good name.
 - [ ] The same 'type' of elements have the same classes
 - [ ] All images have an alt attribute and a title
 
-### Thermometer goes WHERE???
-- [ ] Your own style is included after the style of frameworks
-- [ ] Script tags are put at the end of the body or in the head with async/defer if possible
-
 ### Just kidding CSS deserves some love too
 - [ ] CSS follows the DRY principle
 - [ ] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
 - [ ] There is no use of !important where it can be avoided
 - [ ] The page is responsive
+
+
+### Thermometer goes WHERE???
+- [ ] Your own style is included after the style of frameworks
+- [ ] Script tags are put at the end of the body or in the head with async/defer if possible
+
 
 ### Errors are to be avoided
 - [ ] No http resources are used on an https website
