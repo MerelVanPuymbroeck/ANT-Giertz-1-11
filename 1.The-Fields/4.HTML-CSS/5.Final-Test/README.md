@@ -25,11 +25,19 @@
 
 ## Assessment
 
-Each group will evaluate another group. You have a checklist you can go trough. On top of that you are allowed to give your own feedback. Also share it with the group.
-The best way to do that is to change this file (you can do so directly on github or fork this repo) and then notify the group in ryver that you added a requirement. 
-Add your requirements at the bottom under the learner added requirements title.
-Every group should add at least one requirement. The filled out checklist should be added to this repo in this folder.
-Give the file a good name.
+You will do some peer evaluation. Every group will evaluate one other group using the checklist below.    
+**Your group will also need to add one requirement.**
+
+## Adding your own requirement
+1. Change this file (directly on github or fork this repo)
+2. Add the requirement at the bottom
+3. Notify the group on ryver
+
+## Doing the evaultion
+1. Create a file in this folder
+2. Copy the requirements below into it
+3. Tick the right boxes
+4. Commit/push the change
 
 ## Requirements
 
