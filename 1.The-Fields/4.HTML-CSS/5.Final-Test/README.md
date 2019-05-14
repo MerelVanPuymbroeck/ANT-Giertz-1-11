@@ -24,11 +24,11 @@
 ## Assessment
 
 You will do some peer evaluation. Every group will evaluate one other group using the checklist below.    
-**Your group will also need to add one requirement.**
+**Your group will also need to add at least one requirement.**
 
-## Adding your own requirement
+## Adding your own requirement(s)
 1. Change this file (directly on github or fork this repo)
-2. Add the requirement at the bottom
+2. Add the requirement(s) at the bottom
 3. Notify the group on ryver
 
 ## Doing the evaultion
