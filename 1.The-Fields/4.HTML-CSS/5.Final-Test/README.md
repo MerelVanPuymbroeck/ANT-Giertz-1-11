@@ -62,6 +62,7 @@ Give the file a good name.
 - [ ] Intro, middle, conclusion is style correctly
 - [ ] Headline font is a headline font
 - [ ] Body text font is a body text font
+- [ ] The text on the page has a good flow
 
 ### Style
 - [ ] Black is almost black but not #000
