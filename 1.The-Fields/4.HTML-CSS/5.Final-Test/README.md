@@ -96,7 +96,7 @@ Give the file a good name.
 - [ ] A github website has been filled in
 - [ ] Github topics have been filled in
 
-### Readme please, but also writeme
+### Readme but also writeme
 - [ ] No license text in the readme, put it in a seperate file
 - [ ] But a license is defined
 - [ ] And it is included in the readme by name or a quick summary
