@@ -5,10 +5,8 @@
 
 ## Objectives
 
-- Learn more CSS properties
-- Learn to apply HTML & CSS in a professional way
-- Learn to design from scratch (without us giving examples!)
-
+- Learn to work in group
+- Learn to complete a project so it can be delivered to a client
 
 ## Instructions 
 
