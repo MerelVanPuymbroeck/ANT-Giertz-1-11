@@ -171,4 +171,5 @@ You will do some peer evaluation. Every group will evaluate one other group usin
 ## Learner added requirements
 - [ ] Use Animation
 - [ ] Add a logo
+- [ ] Use an icon button (font awesome,etc.)
 
