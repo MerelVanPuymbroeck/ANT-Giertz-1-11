@@ -31,7 +31,7 @@ You will do some peer evaluation. Every group will evaluate one other group usin
 2. Add the requirement(s) at the bottom
 3. Notify the group on ryver
 
-## Doing the evaultion
+## Doing the evaluation
 1. Create a file in this folder
 2. Copy the requirements below into it
 3. Tick the right boxes
