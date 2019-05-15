@@ -56,7 +56,7 @@ You will do some peer evaluation. Every group will evaluate one other group usin
 - [ ] Google maps
 - [ ] Clickable email
 - [ ] A working form (you can use https://formspree.io)
-- [ ] Add a logo
+
 
 ### Text life matters aka typography is real
 - [ ] Some words are bolded
@@ -170,4 +170,5 @@ You will do some peer evaluation. Every group will evaluate one other group usin
 
 ## Learner added requirements
 - [ ] Use Animation
+- [ ] Add a logo
 
