@@ -168,4 +168,5 @@ You will do some peer evaluation. Every group will evaluate one other group usin
 - [ ] The console shows no errors
 
 ## Learner added requirements
+- [ ] Use Flexbox
 
