@@ -169,7 +169,7 @@ You will do some peer evaluation. Every group will evaluate one other group usin
 - [ ] The console shows no errors
 
 ## Learner added requirements
-- [ ] Use Animation
+- [ ] Use Animation/Transition
 - [ ] Add a logo
-- [ ] Use an icon button (font awesome,etc.)
+- [ ] Use an icon (font awesome,etc.)
 
