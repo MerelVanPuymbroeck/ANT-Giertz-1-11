@@ -43,10 +43,10 @@ A good requirement for this list is something that people should have been doing
 ## Requirements
 
 ### Perfection is not a detail
-- [ ] All buttons and links work
+- [x] All buttons and links work
 - [ ] All elements work and are complete (menu, lists, images, ...)
-- [ ] Everything on the page has a function, a reason to be there
-- [ ] No dead links
+- [x] Everything on the page has a function, a reason to be there
+- [x] No dead links
 - [x] English and dutch are not mixed
 - [x] No spelling errors
 - [x] No grammar errors
@@ -92,7 +92,7 @@ A good requirement for this list is something that people should have been doing
 - [x] Page has an H1 tag
 - [x] Page has keyword meta tags
 - [x] Page has a title with the keywords in
-- [ ] Page loads fast
+- [x] Page loads fast
  
 ### Keep your workspace clean
 - [x] No unused files in the repo
@@ -103,9 +103,9 @@ A good requirement for this list is something that people should have been doing
 
 ### Git(hub) is what you make it
 - [x] All commits use the correct format (if applied this commit will...)
-- [ ] A github description has been filled in
+- [x] A github description has been filled in
 - [x] A github website has been filled in
-- [ ] Github topics have been filled in
+- [x] Github topics have been filled in
 
 ### Readme but also writeme
 - [x] No license text in the readme, put it in a seperate file
@@ -136,7 +136,7 @@ A good requirement for this list is something that people should have been doing
 - [x] Author is defined
 
 ### Data is the new oil
-- [ ] (Google) analytics
+- [x] (Google) analytics
 
 ### Perform all the tests
 - [ ] Lighthouse
@@ -144,22 +144,22 @@ A good requirement for this list is something that people should have been doing
 - [ ] Monkey test
 
 ### Putting the antics back in semantics (but only for the html)
-- [ ] The html is semanticly correct
+- [x] The html is semanticly correct
 - [x] Navigation is in a nav
 - [x] Lists use list tags
 - [x] H tags are used to signal importance
-- [ ] No div is used where another element is available
-- [ ] No span is used where another element is available
-- [ ] No inline styling is put on any element
+- [x] No div is used where another element is available
+- [x] No span is used where another element is available
+- [x] No inline styling is put on any element
 - [x] Id's are only used once
-- [ ] The same 'type' of elements have the same classes
-- [ ] All images have an alt attribute and a title
+- [x] The same 'type' of elements have the same classes
+- [x] All images have an alt attribute and a title
 
 ### Just kidding CSS deserves some love too
-- [ ] CSS follows the DRY principle
+- [x] CSS follows the DRY principle
 - [ ] The CSS does not contain conflicting selectors (multiple definition for the same class/id)
-- [ ] There is no use of !important where it can be avoided
-- [ ] The page is responsive
+- [x] There is no use of !important where it can be avoided
+- [x] The page is responsive
 
 
 ### Thermometer goes WHERE???
@@ -168,8 +168,8 @@ A good requirement for this list is something that people should have been doing
 
 
 ### Errors are to be avoided
-- [ ] No http resources are used on an https website
-- [ ] The console shows no errors
+- [x] No http resources are used on an https website
+- [x] The console shows no errors
 
 ## Learner added requirements
 - [x] Use Animation/Transition
