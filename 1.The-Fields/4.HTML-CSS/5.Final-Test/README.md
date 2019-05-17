@@ -55,19 +55,19 @@ A good requirement for this list is something that people should have been doing
 
 ### Content
 - [x] Openinghours (if needed)
-- [ ] Address (if needed)
-- [ ] Google maps
+- [x] Address (if needed)
+- [x] Google maps
 - [ ] Clickable email
 - [x] A working form (you can use https://formspree.io)
 
 
 ### Text life matters aka typography is real
-- [ ] Some words are bolded
-- [ ] Some words are italic
-- [ ] Some words have a different color
-- [ ] We aren't using a default font, cause it's not 2004
-- [ ] Contrast is not too low
-- [ ] Typographic hierachy is correct
+- [x] Some words are bolded
+- [x] Some words are italic
+- [x] Some words have a different color
+- [x] We aren't using a default font, cause it's not 2004
+- [x] Contrast is not too low
+- [x] Typographic hierachy is correct
 - [x] Text has a clear intro, middle, conclusion
 - [x] Intro, middle, conclusion is style correctly
 - [x] Headline font is a headline font
@@ -76,35 +76,35 @@ A good requirement for this list is something that people should have been doing
 
 ### Style
 - [x] Black is almost black but not #000
-- [ ] White is almost white but not #fff
+- [x] White is almost white but not #fff
 - [x] The website is not an ugly color mess
 - [x] The styling is consistent
 - [x] It is not four totally different pages thrown together
-- [ ] Everything works even if you are colorblind
+- [x] Everything works even if you are colorblind
 
 
 ### Not everyone has free 4G aka speed matters
 - [ ] Pictures are not too heavy
-- [ ] Pictures are not pixelated
+- [x] Pictures are not pixelated
 
 ### A company wants to be found/SEO	
-- [ ] All the keywords this company wants to be found on are on the page 
-- [ ] Page has an H1 tag
-- [ ] Page has keyword meta tags
-- [ ] Page has a title with the keywords in
+- [x] All the keywords this company wants to be found on are on the page 
+- [x] Page has an H1 tag
+- [x] Page has keyword meta tags
+- [x] Page has a title with the keywords in
 - [ ] Page loads fast
  
 ### Keep your workspace clean
-- [ ] No unused files in the repo
+- [x] No unused files in the repo
 - [x] All files have a good, clear name
 - [x] Good folder structure
 - [x] The CSS folder does not have an image folder
-- [ ] Not too many files in the root folder 
+- [x] Not too many files in the root folder 
 
 ### Git(hub) is what you make it
 - [x] All commits use the correct format (if applied this commit will...)
 - [ ] A github description has been filled in
-- [ ] A github website has been filled in
+- [x] A github website has been filled in
 - [ ] Github topics have been filled in
 
 ### Readme but also writeme
@@ -126,14 +126,14 @@ A good requirement for this list is something that people should have been doing
 - [x] The readme is clear, even for someone that has no idea what is going on
 
 ### I'm So Meta, Even This Acronym
-- [ ] Social media sharing meta tags are correct
-- [ ] Keywords meta tag
-- [ ] Description meta tag
-- [ ] Title of the page is included
-- [ ] Favicon is included
-- [ ] Responsive meta tag is included
-- [ ] Charset is defined
-- [ ] Author is defined
+- [x] Social media sharing meta tags are correct
+- [x] Keywords meta tag
+- [x] Description meta tag
+- [x] Title of the page is included
+- [x] Favicon is included
+- [x] Responsive meta tag is included
+- [x] Charset is defined
+- [x] Author is defined
 
 ### Data is the new oil
 - [ ] (Google) analytics
@@ -163,8 +163,8 @@ A good requirement for this list is something that people should have been doing
 
 
 ### Thermometer goes WHERE???
-- [ ] Your own style is included after the style of frameworks
-- [ ] Script tags are put at the end of the body or in the head with async/defer if possible
+- [x] Your own style is included after the style of frameworks
+- [x] Script tags are put at the end of the body or in the head with async/defer if possible
 
 
 ### Errors are to be avoided
